@@ -1,6 +1,7 @@
 Esta es la historia de Alvaro olarte
 
 Alvaro Olarte tiene 37 años y nació en Colombia,
-viviendo en todo el mundo
+
+Un nueva historia desde webflaskweb
 
 Hoy hablaremos de su vida y obra maestra.
