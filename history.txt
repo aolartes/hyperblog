@@ -4,4 +4,6 @@ Alvaro Olarte tiene 37 años y nació en Colombia,
 
 Un nueva historia desde webflaskweb
 
+Alvaro Olarte es una persona que contribuye a este proyecto opensource
+
 Hoy hablaremos de su vida y obra maestra.
