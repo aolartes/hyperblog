@@ -1,4 +1,4 @@
-# hyperblog 💚💙
+# Hyperblog 💚💙
 Learning GIT
 > Talk is cheap. Show me the code.
 > - Linus Torvalds.
